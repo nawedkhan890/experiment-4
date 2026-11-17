@@ -1,3 +1,4 @@
 Name:nawed ahmed khan
 USN:1GC25CS050
-Section:B
+Section:B 
+Semester:3
